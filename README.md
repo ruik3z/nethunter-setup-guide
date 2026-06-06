@@ -2,7 +2,7 @@
 
 You just flashed a NetHunter integrated kernel, and you wanna get Kali up and runnin'
 
-Credits to [OffSec](offsec.com) for their amazing work
+Credits to [OffSec](https://offsec.com) for their amazing work
 
 Let's get straight to it
 
