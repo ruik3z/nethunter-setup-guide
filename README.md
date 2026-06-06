@@ -46,4 +46,4 @@ To turn off vncserver, navigate back to NetHunter terminal and run
 
 To shut down Kali NetHunter chroot completely, just navigate to Kali Chroot Manager in NetHunter app and press 'Stop' at the bottom
 
-## If you need any help, you can contact me through my [profile](https://github.com/ruik3z)! Happy hunting!
+# If you need any help, you can contact me through my [profile](https://github.com/ruik3z)! Happy hunting!
