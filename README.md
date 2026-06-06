@@ -28,7 +28,9 @@ Let's get straight to it
 
 4 - Wait for the installation to finish, and make sure your device stays ON/does not enter sleep mode during the chroot installation
 
-5 - You now have Kali NetHunter fully running on your device, and you can configure chroot startup to your liking. You could also flash my firmware-fix module if you haven't already (required for supported USB WiFi adapter recognition)
+5 - You now have Kali NetHunter fully running on your device, and you can configure chroot startup to your liking.
+
+You could also flash my NetHunter firmware module [NetHunter firmware module](https://github.com/ruik3z/avalon-firmware) (required for supported USB WiFi adapter recognition)
 
 ## Configuring NetHunter KeX
 
