@@ -41,7 +41,7 @@ It should show
 `New Xtigervnc server 'localhost:1 (root)' on port 5901 for display :1.`
 
 4 - Open NetHunter KeX, and fill the info as shown below
-<img src="https://user-images.githubusercontent.com/37921907/177915346-71c29149-78fb-4a00-996f-5d84ffc9eb8c.png" width="300">
+<img width="35%" alt="Screenshot_20260606-210349_NetHunter KeX_1" src="https://github.com/user-attachments/assets/1e67f94a-e8f0-4c9d-a724-49a31001cb55" />
 
 Connect.
 
