@@ -8,7 +8,7 @@ Let's get straight to it
 
 ## Installation
 
-1 - Download the official [Kali NetHUnter app store](https://store.nethunter.com/)
+1 - Download the official [Kali NetHunter app store](https://store.nethunter.com/)
 
 2 - Install it and enter, then download and install the following apps: NetHunter, NetHunter Terminal, NetHunter KeX
 
