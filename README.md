@@ -31,15 +31,19 @@ Let's get straight to it
 1 - From NetHunter Terminal, run
 `vncpasswd`
 
-2 - Specify and verify your password
+2 - Specify and verify your password (save it, as you'll need to input it again on NetHunter KeX)
 
 3 - Then run
 `vncserver :1`
 
+
 It should show
 `New Xtigervnc server 'localhost:1 (root)' on port 5901 for display :1.`
 
-4 - Open NetHunter KeX, and fill the info as shown below. Then Connect
+4 - Open NetHunter KeX, and fill the info as shown below
+<img width="1080" height="2297" alt="Screenshot_20260606-210349_NetHunter KeX_1" src="https://github.com/user-attachments/assets/23def1ad-10c1-4f5e-8355-182570b32cea" />
+
+Connect.
 
 To turn off vncserver, navigate back to NetHunter terminal and run
 `vncserver -kill`
