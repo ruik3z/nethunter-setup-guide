@@ -20,11 +20,11 @@ Let's get straight to it
 
 2 - Enter NetHunter, open the sidebar, and navigate to Kali Chroot Manager
 
-3 - Pick install from storage, and choose the downloaded 'kali-nethunter-rootfs-full-arm64.tar.xz' file
+3 - Pick 'install from storage', and choose the downloaded 'kali-nethunter-rootfs-full-arm64.tar.xz' file
 
 4 - Wait for the installation to finish, and make sure your device stays ON/does not enter sleep mode during the chroot installation
 
-5 - You now have Kali NetHunter fully running on your device, and you can now configure chroot startup to your liking. You could also flash my firmware-fix module if you haven't already (required for USB WiFi adapter recognition)
+5 - You now have Kali NetHunter fully running on your device, and you configure chroot startup to your liking. You could also flash my firmware-fix module if you haven't already (required for USB WiFi adapter recognition)
 
 ## Configuring NetHunter KeX
 
