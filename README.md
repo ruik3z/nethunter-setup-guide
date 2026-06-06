@@ -10,7 +10,7 @@ Let's get straight to it
 
 1 - Download the official [Kali NetHUnter app store](https://store.nethunter.com/)
 
-2 - Install it and enter, then download and install the following apps: #NetHunter, #NetHunter Terminal, #NetHunter KeX
+2 - Install it and enter, then download and install the following apps: # NetHunter, # NetHunter Terminal, # NetHunter KeX
 
 3 - Enter and enable all permissions and root access for NetHunter and NetHunter Terminal
 
