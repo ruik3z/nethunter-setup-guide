@@ -6,7 +6,7 @@ Credits to [OffSec](offsec.com) for their amazing work
 
 Let's get straight to it
 
-## Installation
+### Installation
 
 1 - Download the official [Kali NetHunter app store](https://store.nethunter.com/)
 
@@ -14,7 +14,7 @@ Let's get straight to it
 
 3 - Enter and enable all permissions and root access for NetHunter and NetHunter Terminal
 
-### Configuring NetHunter
+## Configuring NetHunter
 
 1 - Install the latest [kali-nethunter-rootfs-full-arm64.tar.xz](https://kali.download/nethunter-images/current/rootfs/)
 
@@ -26,7 +26,7 @@ Let's get straight to it
 
 5 - You now have Kali NetHunter fully running on your device, and you can now configure chroot startup to your liking. You could also flash my firmware-fix module if you haven't already (required for USB WiFi adapter recognition)
 
-### Configuring NetHunter KeX
+## Configuring NetHunter KeX
 
 1 - From NetHunter Terminal, run
 `vncpasswd`
