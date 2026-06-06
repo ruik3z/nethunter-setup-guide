@@ -1,4 +1,4 @@
-### Kali NetHunter setup guide
+# Kali NetHunter setup guide
 
 You just flashed a NetHunter integrated kernel, and you wanna get Kali up and runnin'
 
@@ -6,7 +6,7 @@ Credits to [OffSec](offsec.com) for their amazing work
 
 Let's get straight to it
 
-### Installation
+# Installation
 
 1 - Download the official [Kali NetHunter app store](https://store.nethunter.com/)
 
@@ -46,4 +46,4 @@ To turn off vncserver, navigate back to NetHunter terminal and run
 
 To shut down Kali NetHunter chroot completely, just navigate to Kali Chroot Manager in NetHunter app and press 'Stop' at the bottom
 
-# If you need any help, you can contact me through my [profile](https://github.com/ruik3z)! Happy hunting!
+### If you need any help, you can contact me through my [profile](https://github.com/ruik3z)! Happy hunting!
