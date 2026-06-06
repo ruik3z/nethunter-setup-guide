@@ -46,7 +46,7 @@ It should show
 
 Connect.
 
-To turn off vncserver, navigate back to NetHunter terminal and run
+To turn off vncserver, navigate back to NetHunter Terminal and run
 `vncserver -kill`
 
 To shut down Kali NetHunter chroot completely, just navigate to Kali Chroot Manager in NetHunter app and press 'Stop' at the bottom
